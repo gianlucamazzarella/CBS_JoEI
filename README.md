@@ -4,7 +4,7 @@ This repository contains all the codes to reproduce the results presented in:
 
 Colagrossi, M., Geraci, A., Mazzarella, G. (2023). Intergenerational Mobility in the Netherlands: Models, Outcomes and Trends. *Journal of Economic Inequality*, forthcoming
 
-Data cannot be shared since they are property of the Centraal Bureau voor de Statistiek, Netherlands. Further information are available at this [Link](https://www.cbs.nl/en-gb/onze-diensten/customised-services-microdata/microdata-conducting-your-own-research/applying-for-access-to-microdata)
+Data cannot be shared since they are property of the Centraal Bureau voor de Statistiek, Netherlands. Further information is available at this [Link](https://www.cbs.nl/en-gb/onze-diensten/customised-services-microdata/microdata-conducting-your-own-research/applying-for-access-to-microdata)
 
 You can read and download the paper (with open access) here: https://doi.org/10.1007/s10888-023-09569-7
 
