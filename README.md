@@ -18,4 +18,4 @@ It includes:
 	- **5_table2:** bootstrap replication to reproduce the findings of Table 2
 	- **6_descriptive_statistics:** information on the samples used
 	- **7_excel4output:** creates the final excel file for output check
-- An `R` script (**post_output_tab_fig.R**) that creates all the tables and figures after output check.
+- An `R` script (**8_post_output_tab_fig.R**) that creates all the tables and figures after output check.
