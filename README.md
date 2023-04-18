@@ -9,7 +9,7 @@ Data cannot be shared since they are property of the Centraal Bureau voor de Sta
 You can read and download the paper (with open access) here: https://doi.org/10.1007/s10888-023-09569-7
 
 It includes:
-- 8 Stata do-files (.do) that start from orginal administrative records and end with the creation of the excel file to be submitted for output check. In particular:
+- 8 `Stata` do-files (.do) that start from orginal administrative records and end with the creation of the excel file to be submitted for output check. In particular:
 	- **0_globals:** constains the globals pointing to the folders used for the analyses
 	- **1_families:** creates genealogical tree of all individuals ever appearing in Dutch municipalities records
 	- **2_income:** compute proxies of permanent income starting from annual income microdata
