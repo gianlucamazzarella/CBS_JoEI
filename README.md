@@ -15,7 +15,7 @@ It includes:
 	- **2_income:** compute proxies of permanent income starting from annual income microdata
 	- **3_education:** highest achieved education and crosswalk with years of education
 	- **4_estimates:** bootstrap replications of full population and birth cohorts estimates
-	- **5_table2:** bootstrap replication to reproduce the findings of Table 2
+	- **5_table2:** bootstrap replications to reproduce the findings of Table 2
 	- **6_descriptive_statistics:** information on the samples used
-	- **7_excel4output:** creates the final excel file for output check
+	- **7_excel4output:** creates the excel to be submitted for output check
 - An `R` script (**8_post_output_tab_fig.R**) that creates all the tables and figures after output check.
